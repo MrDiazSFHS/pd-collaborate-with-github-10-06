@@ -2,3 +2,5 @@
 Chicago, IL
 Little Rock, Arkansas
 Iowa City, IA :corn:
+Fairmont, WV
+
